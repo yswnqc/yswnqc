@@ -54,7 +54,7 @@ Now it's just a simple version which only can show the md files content without 
 
 ### [Mini Music Player](https://github.com/yswnqc/web_music_player)
 
-<a href="https://yswnqc.github.io/web_music_player/"><img src="music.png" height="500"/></a>
+<a href="https://yswnqc.github.io/web_music_player/"><img src="music.png" height="200"/></a>
 
 ## Continuing
 
