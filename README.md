@@ -23,7 +23,7 @@ Still working on it...
 
 ### [MD Blog WebAPP](https://github.com/yswnqc/md-blog)
 
-<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="300"/></a> 
+<a href="https://samia-md-blog.vercel.app/"><img src="md_blog1.png" height="300"/></a> 
 
 A Static **Markdown** Blog Site using **NextJS**. 
 Now it's just a simple version which only can show the md files content without decorations.
