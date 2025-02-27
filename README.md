@@ -13,7 +13,7 @@
 
 ## [Portfolio Website](https://z5493549z5507706-presto-deploy.vercel.app/)
 
-<img src="portfolio1.png" height="150"/> &nbsp; <img src="portfolio2.png" height="150"/>
+<img src="portfolio1.png" height="250"/> &nbsp; <img src="portfolio2.png" height="250"/>
 <p>Still working...</p>
 
 ## React WebAPPs
