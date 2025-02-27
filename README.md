@@ -20,9 +20,9 @@
            
 <a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="150"/></a> &nbsp; <a href="https://www.google.com"><img src="e_commerce.png" height="150"/></a> &nbsp; <a href="https://www.google.com"><img src="forum.png" height="150"/></a>
 
-### SlidesAPP
+### [SlidesAPP](https://z5493549z5507706-presto-deploy.vercel.app/)
 
-<a href="https://z5493549z5507706-presto-deploy.vercel.app/"> <img src="slides1.png" height="150"/> &nbsp; <img src="slides2.png" height="150"/> &nbsp; <img src="slides3.png" height="150"/></a>
+<img src="slides1.png" height="150"/> &nbsp; <img src="slides2.png" height="150"/> &nbsp; <img src="slides3.png" height="150"/>
 
 <p>PS: Backend provided by school server may not working. Trying to deploy the backend myself.</p>
 
