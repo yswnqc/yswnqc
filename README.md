@@ -16,17 +16,24 @@
 ## [Portfolio Website](https://github.com/yswnqc/portfolio-front)
 
 <img src="portfolio1.png" height="300"/> &nbsp; <img src="portfolio2.png" height="300"/>
-<p>Still working on it...</p>
+
+Still working on it...
 
 ## React WebAPPs
            
-<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="150"/></a> &nbsp; <a href="https://www.google.com"><img src="e_commerce.png" height="150"/></a> &nbsp; <a href="https://www.google.com"><img src="forum.png" height="150"/></a>
+<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="150"/></a> &nbsp; <a href="https://www.google.com"><img src="forum.png" height="150"/></a>
+
+### [E-commerce APP](https://github.com/yswnqc/E-commerce-font)
+
+<img src="e_commerce1.png" height="150"/> &nbsp; <img src="e_commerce1.png" height="150"/> &nbsp; <img src="e_commerce1.png" height="150"/>
+
+Still working on it...
 
 ### [SlidesAPP](https://z5493549z5507706-presto-deploy.vercel.app/)
 
 <img src="slides1.png" height="150"/> &nbsp; <img src="slides2.png" height="150"/> &nbsp; <img src="slides3.png" height="150"/>
 
-<p>PS: Backend provided by school server may not working. Trying to deploy the backend myself.</p>
+PS: Backend provided by school server may not working. Trying to deploy the backend myself.
 
 ## Small Games
 
