@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jinling HAN</h1>
+<h1 align="center">Hi 👋, I'm Jinling HAN(Samia)</h1>
 <h3 align="center">A passionate frontend/full-stack developer from China（now live in Australia）</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yswnqc&label=Profile%20views&color=0e75b6&style=flat" alt="yswnqc" /> </p>
