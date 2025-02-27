@@ -20,16 +20,23 @@
 Still working on it...
 
 ## React WebAPPs
-           
-<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="150"/></a> &nbsp; <a href="https://www.google.com"><img src="forum.png" height="150"/></a>
 
-### [E-commerce APP](https://github.com/yswnqc/E-commerce-font)
+<a href="https://www.google.com"><img src="forum.png" height="150"/></a>
+
+### [MD Blog WebAPP](https://github.com/yswnqc/md-blog)
+
+<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="150"/></a> 
+
+A Static **Markdown** Blog Site using **NextJS**. 
+Now it's just a simple version which only can show the md files content without decorations.
+
+### [E-commerce webAPP](https://github.com/yswnqc/E-commerce-font)
 
 <img src="e_commerce1.png" height="150"/> &nbsp; <img src="e_commerce2.png" height="150"/> &nbsp; <img src="e_commerce3.png" height="150"/>
 
 Still working on it...
 
-### [SlidesAPP](https://z5493549z5507706-presto-deploy.vercel.app/)
+### [Slides APP](https://z5493549z5507706-presto-deploy.vercel.app/)
 
 <img src="slides1.png" height="150"/> &nbsp; <img src="slides2.png" height="150"/> &nbsp; <img src="slides3.png" height="150"/>
 
