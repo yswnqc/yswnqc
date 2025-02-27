@@ -13,18 +13,18 @@
 
 ## Portfolio Website
 
-<a href="https://github.com/yswnqc"><img src="portfolio.png"/></a>
+<a href="https://github.com/yswnqc"><img src="portfolio.png" height="150"/></a>
 <p>Still working...</p>
 
 ## React WebAPPs
            
-<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png"/></a><a href="https://www.google.com"><img src="e_commerce.png"/></a><a href="E-commerce.png"><img src="slides.png"/></a><a href="https://www.google.com"><img src="forum.png"/></a>
+<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="150"/></a><a href="https://www.google.com"><img src="e_commerce.png" height="150"/></a><a href="E-commerce.png"><img src="slides.png"/></a><a href="https://www.google.com"><img src="forum.png" height="150"/></a>
 
 ## Small Games
 
 <a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="2048.png" height="150"/></a> &nbsp; <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="klotski.png" height="150"/></a> &nbsp; <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="tic_tac_toe.png" height="150"/></a>
 
-## [50 frontend projects practice](https://github.com/yswnqc/50_frontend_projects-collection)
+## [50 frontend projects practice - github repo](https://github.com/yswnqc/50_frontend_projects-collection)
 
 <a href="https://yswnqc.github.io/50_frontend_projects-1_expanding_cards/"><img src="50front.png" height="150"/></a>
 
