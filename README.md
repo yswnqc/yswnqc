@@ -45,7 +45,7 @@ PS: Backend provided by school server may not working. Trying to deploy the back
 
 ## [TO DO APP](https://github.com/sol-wizard/Blotz-Task-App)
 
-Participated for a while mainly doing backend work using .Net and C#.
+Participated for a while mainly doing backend work using **.Net and C#**. And the frontend is using **Angular and Typescript**
 
 ---
 
