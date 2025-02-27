@@ -11,52 +11,17 @@
 
 # Projects
 
-<div style="display:flex;gap:20px;">
-    <div style="flex:1;display:flex;flex-direction:column;">
-        <h2>Portfolio Website</h2>
-        <a href="https://www.google.com" style="display:flex;margin:auto 0;"><img src="react/klotski_game/public/assets/8.png"/></a>
-    </div>
-    <div style="flex:2">
-        <div>
-            <h2>React WebAPPs</h2>
-            <div style="display:flex;gap:20px">
-                <div style="display:flex;flex-direction:column">
-                <a href="https://www.google.com"><img src="react/klotski_game/public/assets/1.png"/></a>
-                <span>Md Blog</span>
-                </div>
-                <div style="display:flex;flex-direction:column">
-                <a href="https://www.google.com"><img src="react/klotski_game/public/assets/1.png"/></a>
-                <span>E-commerce</span>
-                </div>
-                <div style="display:flex;flex-direction:column">
-                <a href="https://www.google.com"><img src="react/klotski_game/public/assets/1.png"/></a>
-                <span>Slide</span>
-                </div>
-                <div style="display:flex;flex-direction:column">
-                <a href="https://www.google.com"><img src="react/klotski_game/public/assets/1.png"/></a>
-                <span>Forum</span>
-                </div>
-            </div>
-        </div>
-        <div>
-            <h2>Small Games</h2>
-            <div style="display:flex;gap:20px">
-                <div style="display:flex;flex-direction:column">
-                <a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="react/klotski_game/public/assets/1.png"/></a>
-                <span>2048</span>
-                </div>
-                <div style="display:flex;flex-direction:column">
-                <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="react/klotski_game/public/assets/1.png"/></a>
-                <span>Klotski</span>
-                </div>
-                <div style="display:flex;flex-direction:column">
-                <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="react/klotski_game/public/assets/1.png"/></a>
-                <span>Tic Tac Toe</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+## Portfolio Website
+
+<a href="https://www.google.com" style="display:flex;margin:auto 0;"><img src="react/klotski_game/public/assets/8.png"/></a>
+
+## React WebAPPs
+           
+<a href="https://www.google.com"><img src="react/klotski_game/public/assets/1.png"/></a><a href="https://www.google.com"><img src="react/klotski_game/public/assets/1.png"/></a><a href="https://www.google.com"><img src="react/klotski_game/public/assets/1.png"/></a><a href="https://www.google.com"><img src="react/klotski_game/public/assets/1.png"/></a>
+
+## Small Games
+
+<a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="2048.png" height="150"/></a> &nbsp; <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="klotski.png" height="150"/></a> &nbsp; <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="tic_tac_toe.png" height="150"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
