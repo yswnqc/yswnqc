@@ -19,14 +19,11 @@
 
 Still working on it...
 
+## [TO DO APP](https://github.com/sol-wizard/Blotz-Task-App)
+
+Participated for a while mainly doing backend work using **.Net and C#**. And the frontend is using **Angular and Typescript**
+
 ## React WebAPPs
-
-### [MD Blog WebAPP](https://github.com/yswnqc/md-blog)
-
-<a href="https://samia-md-blog.vercel.app/"><img src="md_blog1.png" height="300"/></a> 
-
-A Static **Markdown** Blog Site using **NextJS**. 
-Now it's just a simple version which only can show the md files content without decorations.
 
 ### [E-commerce webAPP](https://github.com/yswnqc/E-commerce-font)
 
@@ -40,6 +37,13 @@ Still working on it...
 
 A react slides editing website using **React and NodeJS**.
 
+### [MD Blog WebAPP](https://github.com/yswnqc/md-blog)
+
+<a href="https://samia-md-blog.vercel.app/"><img src="md_blog1.png" height="300"/></a> 
+
+A Static **Markdown** Blog Site using **NextJS**. 
+Now it's just a simple version which only can show the md files content without decorations.
+
 ## Small Games
 
 <a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="2048.png" height="170"/></a> &nbsp; <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="klotski.png" height="170"/></a> &nbsp; <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="tic_tac_toe.png" height="170"/></a>
@@ -48,9 +52,9 @@ A react slides editing website using **React and NodeJS**.
 
 <a href="https://yswnqc.github.io/50_frontend_projects-1_expanding_cards/"><img src="50front.png" height="500"/></a>
 
-## [TO DO APP](https://github.com/sol-wizard/Blotz-Task-App)
+### [Mini Music Player](https://github.com/yswnqc/web_music_player)
 
-Participated for a while mainly doing backend work using **.Net and C#**. And the frontend is using **Angular and Typescript**
+<a href="https://yswnqc.github.io/web_music_player/"><img src="music.png" height="500"/></a>
 
 ## Continuing
 
