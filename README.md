@@ -21,8 +21,6 @@ Still working on it...
 
 ## React WebAPPs
 
-<a href="https://www.google.com"><img src="forum.png" height="200"/></a>
-
 ### [MD Blog WebAPP](https://github.com/yswnqc/md-blog)
 
 <a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="300"/></a> 
@@ -53,6 +51,8 @@ PS: Backend provided by school server may not working. Trying to deploy the back
 ## [TO DO APP](https://github.com/sol-wizard/Blotz-Task-App)
 
 Participated for a while mainly doing backend work using **.Net and C#**. And the frontend is using **Angular and Typescript**
+
+## Continuing
 
 ---
 
