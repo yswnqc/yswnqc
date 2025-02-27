@@ -25,7 +25,7 @@ Still working on it...
 
 ### [E-commerce APP](https://github.com/yswnqc/E-commerce-font)
 
-<img src="e_commerce1.png" height="150"/> &nbsp; <img src="e_commerce1.png" height="150"/> &nbsp; <img src="e_commerce1.png" height="150"/>
+<img src="e_commerce1.png" height="150"/> &nbsp; <img src="e_commerce2.png" height="150"/> &nbsp; <img src="e_commerce3.png" height="150"/>
 
 Still working on it...
 
