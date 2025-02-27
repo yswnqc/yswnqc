@@ -21,30 +21,30 @@ Still working on it...
 
 ## React WebAPPs
 
-<a href="https://www.google.com"><img src="forum.png" height="150"/></a>
+<a href="https://www.google.com"><img src="forum.png" height="200"/></a>
 
 ### [MD Blog WebAPP](https://github.com/yswnqc/md-blog)
 
-<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="150"/></a> 
+<a href="https://samia-md-blog.vercel.app/"><img src="md_blog.png" height="200"/></a> 
 
 A Static **Markdown** Blog Site using **NextJS**. 
 Now it's just a simple version which only can show the md files content without decorations.
 
 ### [E-commerce webAPP](https://github.com/yswnqc/E-commerce-font)
 
-<img src="e_commerce1.png" height="150"/> &nbsp; <img src="e_commerce2.png" height="150"/> &nbsp; <img src="e_commerce3.png" height="150"/>
+<img src="e_commerce1.png" height="200"/> &nbsp; <img src="e_commerce2.png" height="200"/> &nbsp; <img src="e_commerce3.png" height="200"/>
 
 Still working on it...
 
 ### [Slides APP](https://z5493549z5507706-presto-deploy.vercel.app/)
 
-<img src="slides1.png" height="150"/> &nbsp; <img src="slides2.png" height="150"/> &nbsp; <img src="slides3.png" height="150"/>
+<img src="slides1.png" height="200"/> &nbsp; <img src="slides2.png" height="200"/> &nbsp; <img src="slides3.png" height="200"/>
 
 PS: Backend provided by school server may not working. Trying to deploy the backend myself.
 
 ## Small Games
 
-<a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="2048.png" height="150"/></a> &nbsp; <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="klotski.png" height="150"/></a> &nbsp; <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="tic_tac_toe.png" height="150"/></a>
+<a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="2048.png" height="200"/></a> &nbsp; <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="klotski.png" height="200"/></a> &nbsp; <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="tic_tac_toe.png" height="200"/></a>
 
 ## [50 frontend projects practice](https://github.com/yswnqc/50_frontend_projects-collection)
 
