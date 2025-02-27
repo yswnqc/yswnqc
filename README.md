@@ -11,9 +11,9 @@
 
 # Projects
 
-## Portfolio Website
+## [Portfolio Website](https://z5493549z5507706-presto-deploy.vercel.app/)
 
-<a href="https://github.com/yswnqc"><img src="portfolio.png" height="150"/></a>
+<img src="portfolio1.png" height="150"/> &nbsp; <img src="portfolio2.png" height="150"/>
 <p>Still working...</p>
 
 ## React WebAPPs
@@ -30,7 +30,7 @@
 
 <a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="2048.png" height="150"/></a> &nbsp; <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="klotski.png" height="150"/></a> &nbsp; <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="tic_tac_toe.png" height="150"/></a>
 
-## [50 frontend projects practice - github repo](https://github.com/yswnqc/50_frontend_projects-collection)
+## [50 frontend projects practice](https://github.com/yswnqc/50_frontend_projects-collection)
 
 <a href="https://yswnqc.github.io/50_frontend_projects-1_expanding_cards/"><img src="50front.png" height="500"/></a>
 
