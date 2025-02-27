@@ -36,7 +36,7 @@
 
 <a href="https://yswnqc.github.io/50_frontend_projects-1_expanding_cards/"><img src="50front.png" height="500"/></a>
 
-## TO DO APP
+## [TO DO APP](https://github.com/sol-wizard/Blotz-Task-App)
 
 Participated for a while mainly doing backend work using .Net and C#.
 
