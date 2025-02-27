@@ -32,19 +32,19 @@ Now it's just a simple version which only can show the md files content without 
 
 ### [E-commerce webAPP](https://github.com/yswnqc/E-commerce-font)
 
-<img src="e_commerce1.png" height="180"/> &nbsp; <img src="e_commerce2.png" height="180"/> &nbsp; <img src="e_commerce3.png" height="180"/>
+<img src="e_commerce1.png" height="170"/> &nbsp; <img src="e_commerce2.png" height="170"/> &nbsp; <img src="e_commerce3.png" height="170"/>
 
 Still working on it...
 
 ### [Slides APP](https://z5493549z5507706-presto-deploy.vercel.app/)
 
-<img src="slides1.png" height="180"/> &nbsp; <img src="slides2.png" height="180"/> &nbsp; <img src="slides3.png" height="180"/>
+<img src="slides1.png" height="170"/> &nbsp; <img src="slides2.png" height="170"/> &nbsp; <img src="slides3.png" height="170"/>
 
 PS: Backend provided by school server may not working. Trying to deploy the backend myself.
 
 ## Small Games
 
-<a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="2048.png" height="180"/></a> &nbsp; <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="klotski.png" height="180"/></a> &nbsp; <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="tic_tac_toe.png" height="180"/></a>
+<a href="https://yswnqc.github.io/2048_Game_JS_CSS_HTML/"><img src="2048.png" height="170"/></a> &nbsp; <a href="https://yswnqc.github.io/klotsk_puzzle_Game_React/"><img src="klotski.png" height="170"/></a> &nbsp; <a href="https://yswnqc.github.io/tic_tac_toe_Game_React/"><img src="tic_tac_toe.png" height="170"/></a>
 
 ## [50 frontend projects practice](https://github.com/yswnqc/50_frontend_projects-collection)
 
