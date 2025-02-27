@@ -38,7 +38,7 @@ Still working on it...
 
 <img src="slides1.png" height="170"/> &nbsp; <img src="slides2.png" height="170"/> &nbsp; <img src="slides3.png" height="170"/>
 
-PS: Backend provided by school server may not working. Trying to deploy the backend myself.
+A react slides editing website using **React and NodeJS**.
 
 ## Small Games
 
