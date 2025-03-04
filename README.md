@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next,js, Typescript, Node.js, python**
 
-- 📫 How to reach me **samia_han@qq.com**
+- 📫 How to reach me **hjl.990406@gmail.com**
   
 ---
 
