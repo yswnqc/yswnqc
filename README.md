@@ -19,9 +19,11 @@
 
 Still working on it...
 
-## [Food Delivery Mobile App](https://github.com/yswnqc/food_Delivery_MobileApp)
+## [Food Delivery Mobile App](https://github.com/yswnqc/Food_Delivery_MobileApp)
 
-<img src="Gif3.gif" alt="Demo GIF" width="400"/>
+<img src="Gif5.gif" alt="Demo GIF" width="400"/><img src="Gif6.gif" alt="Demo GIF" width="400"/>
+<img src="Gif3.gif" alt="Demo GIF" width="400"/><img src="Gif4.gif" alt="Demo GIF" width="400"/>
+<img src="Gif2.gif" alt="Demo GIF" width="400"/>
 
 ## [TO DO APP](https://github.com/sol-wizard/Blotz-Task-App)
 
