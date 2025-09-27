@@ -20,9 +20,9 @@
 Still working on it...
 
 ## [Food Delivery Mobile App](https://github.com/yswnqc/Food_Delivery_MobileApp)
-Customer App | Restaurant App | Driver App
+### Customer App | Restaurant App | Driver App
 <img src="Gif5.gif" alt="Demo GIF" width="200"/><img src="Gif6.gif" alt="Demo GIF" width="200"/><img src="Gif2.gif" alt="Demo GIF" width="200"/><img src="Gif3.gif" alt="Demo GIF" width="200"/>
-Admin Website
+### Admin Website
 <img src="Gif4.gif" alt="Demo GIF" width="200"/>
 
 ## [TO DO APP](https://github.com/sol-wizard/Blotz-Task-App)
