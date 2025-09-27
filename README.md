@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yswnqc" alt="yswnqc" /></a> </p>
 
-- 🌱 I’m currently learning **Next,js, Typescript, Node.js, python**
+- 🌱 I’m currently working and learning on **Python, React, React Native, Node.js, Next.js, Typescript**
 
 - 📫 How to reach me **hjl.990406@gmail.com**
   
