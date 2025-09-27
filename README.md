@@ -43,6 +43,8 @@ Still working on it...
 
 A react slides editing website using **React and NodeJS**.
 
+> Backend deployment may be disconnected.
+
 ### [MD Blog WebAPP](https://github.com/yswnqc/md-blog)
 
 <a href="https://samia-md-blog.vercel.app/"><img src="md_blog1.png" height="300"/></a> 
