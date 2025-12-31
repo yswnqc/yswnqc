@@ -43,7 +43,7 @@ Still working on it...
 
 A react slides editing website using **React and NodeJS**.
 
-> Backend deployment may be disconnected.
+> Database may be inactivity.
 
 ### [MD Blog WebAPP](https://github.com/yswnqc/md-blog)
 
