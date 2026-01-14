@@ -35,7 +35,7 @@ Participated for a while mainly doing backend work using **.Net and C#**. And th
 
 Test URL：https://hey-u-reservation-system-test.vercel.app
 
-<img src="HeyU-2.png" width="500"/> &nbsp; <img src="HeyU-1.png" width="500"/>
+<img src="HeyU-2.png" width="450"/> &nbsp; <img src="HeyU-1.png" width="450"/>
 
 ### [E-commerce webAPP](https://github.com/yswnqc/E-commerce-font)
 
