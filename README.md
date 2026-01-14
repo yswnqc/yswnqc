@@ -15,7 +15,7 @@
 
 ## [Portfolio Website](https://github.com/yswnqc/portfolio-front)
 
-<img src="portfolio1.png" height="300"/> &nbsp; <img src="portfolio2.png" height="300"/>
+<img src="portfolio1.png" width="300"/> &nbsp; <img src="portfolio2.png" width="300"/>
 
 Still working on it...
 
