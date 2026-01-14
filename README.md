@@ -15,7 +15,7 @@
 
 ## [Portfolio Website](https://github.com/yswnqc/portfolio-front)
 
-<img src="portfolio1.png" width="300"/> &nbsp; <img src="portfolio2.png" width="300"/>
+<img src="portfolio1.png" height="300"/> &nbsp; <img src="portfolio2.png" height="300"/>
 
 Still working on it...
 
@@ -35,7 +35,7 @@ Participated for a while mainly doing backend work using **.Net and C#**. And th
 
 Test URL：https://hey-u-reservation-system-test.vercel.app
 
-<img src="HeyU-2.png" height="300"/> &nbsp; <img src="HeyU-1.png" height="300"/>
+<img src="HeyU-2.png" width="500"/> &nbsp; <img src="HeyU-1.png" width="500"/>
 
 ### [E-commerce webAPP](https://github.com/yswnqc/E-commerce-font)
 
